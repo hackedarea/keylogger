@@ -42,6 +42,7 @@ A keylogger is a program that records keyboard inputs made by a user. This imple
     ```bash
     python keylogger.py
     ```
+**NOTE-** It requires administrator permission to work, else it will not give any response.
 
 2. **Check the log file**  
     The keystrokes will be saved to a log file as specified in the script (e.g., `keylog.txt`).
